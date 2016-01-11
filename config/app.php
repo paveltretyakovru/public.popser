@@ -145,6 +145,9 @@ return [
 		'App\Providers\EventServiceProvider',
 		'App\Providers\RouteServiceProvider',
 
+		# Composer requires
+		'Illuminate\Html\HtmlServiceProvider'
+
 	],
 
 	/*
@@ -193,6 +196,10 @@ return [
 		'Validator' => 'Illuminate\Support\Facades\Validator',
 		'View'      => 'Illuminate\Support\Facades\View',
 
+		# Composer requires
+		'Form'		=> 'Illuminate\Html\FormFacade',
+		'HTML'		=> 'Illuminate\Html\HtmlFacade'
+		
 	],
 
 ];
