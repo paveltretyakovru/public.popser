@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Laravel</title>
+		<title>Popser! Расширения для Chrome, ведение учета сериалов</title>
 		
 		<link href='//fonts.googleapis.com/css?family=Lato|Helvetica|Arial&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 
