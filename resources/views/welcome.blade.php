@@ -43,7 +43,7 @@
 		<div class="container">
 			<div class="content">
 				{!! HTML::image('images/cat_popcorn.png') !!}
-				<div class="title">Pupser!</div>
+				<div class="title">Popser!</div>
 				<div class="quote">Воу! Сайт еще разрабатывается! Загляни чуть погодя :) </div>
 			</div>
 		</div>
